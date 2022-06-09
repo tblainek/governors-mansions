@@ -8,4 +8,4 @@ In the United States, governors often reside in an official residence maintained
 Data originate from state public records. When coordinates and square footage were not available, estimates were made using mapping tools accounting for the curvature of the earth. State-level median values for home prices and sizes were determined from 2021 federal economic data. "In use" values indicate whether or not a governor resides in that residence.
 
 ## Use
-These data is for use under the MIT License. See LICENSE file enclosed.
+These data are for use under the MIT License. See LICENSE file enclosed.
